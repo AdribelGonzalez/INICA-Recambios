@@ -1,0 +1,52 @@
+Version 1.3.5
+-- update to revolution slider
+-- fixed an issue with editor in page creator
+
+Version 1.3.4
+-- update to revolution slider
+
+Version 1.3.3
+-- update to revolution slider
+
+Version 1.3.2
+-- update to Revolution Slider
+-- added WP3.6 compatibility
+
+Version 1.3.1
+-- update to child theme
+
+Version 1.3
+-- update to revolution slider
+-- fixed an issue with related portfolio items
+-- removed twitter widget
+-- added twitter widget plugin
+-- removed auto updater
+
+Version 1.2
+-- update to revolution slider
+-- fixed an issue with child theme
+-- fixed an issue with wordpress gallery on pages
+-- fixed an issue with boxed layout on mobile phones
+-- fixed an issue with tables inside service tabs
+
+- changed files
+-- loop-pagecreator.php
+-- functions.php
+-- style.css
+-- functions/pagecreator-functions.php
+-- functions/theme-custom-css.php
+-- lambda/metaboxes/lambda.metapanel.php
+-- lambda/assests/css/lambda.ui.css
+-- nebraska-child/style.css
+
+Version 1.1
+- fixed an issue with twitter widget
+- fixed an issue with prettyphoto
+
+- changed files
+- lambda/widgets/lambda_twitter.php
+- style.css
+
+Version 1.0
+
+- initial version

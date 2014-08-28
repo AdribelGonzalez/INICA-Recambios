@@ -1,0 +1,37 @@
+ul.tabs {
+	margin: 0;
+	padding: 0;
+	float: left;
+	list-style: none;
+	height: 32px;
+	border-bottom: 1px solid #DFDFDF;
+	width: 100%;
+}
+ul.tabs li {
+	float: left;
+	margin: 0;
+	padding: 0;
+	height: 31px;
+	line-height: 31px;
+	border-left: none;
+	margin-bottom: -1px;
+	overflow: hidden;
+	position: relative;
+	width:100px;
+}
+ul.tabs li a {
+	text-decoration: none;
+	display: block;
+	padding: 0 20px;
+	border: 1px solid #fff;
+	outline: none;
+}
+.tabpane {
+	margin-top:10px;
+}
+.tabpane input {
+	border-style: none;
+	-moz-border-radius:0px;
+	-webkit-border-radius:0px;
+	border-radius:0px;
+}	
